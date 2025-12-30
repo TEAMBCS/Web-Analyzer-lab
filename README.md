@@ -132,6 +132,15 @@ pip install aiohttp textual beautifulsoup4
 ## ▶️ Run Web Analyzer
 
 ```bash
+apt update && apt upgrade
+pkg install python -y
+pkg install python3 -y
+pkg install git -y
+git clone https://github.com/TEAMBCS/Web-Analyzer.git
+cd Web-Analyzer
+chmod +x *
+chmod 777*
+pip install -r web-analyzer.txt
 python3 web_analyzer.py
 ```
 
