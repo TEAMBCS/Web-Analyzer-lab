@@ -1,12 +1,4 @@
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="70"/>
-  &nbsp;&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/11724928?s=200&v=4" width="70"/>
-</p>
-
 <h1 align="center">Web Inspector Lab</h1>
 
 <p align="center">
