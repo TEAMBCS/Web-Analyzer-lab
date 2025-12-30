@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TEAMBCS/Web-Inspector-Lab/main/Logo%20and%20Screenshot/Web_Inspector_Lab_logo.png" width="380" alt="Logo">
+  <img src="https://raw.githubusercontent.com/TEAMBCS/Web-/main/Logo%20and%20Screenshot/Web_Analyzer_logo.png" width="380" alt="Logo">
 </p>
 
 <p align="center">
