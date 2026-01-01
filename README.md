@@ -165,7 +165,8 @@ bash start.sh
 
 ## 📃 Note 
 
-**Edit CSS Code as your wish**
+**Edit CSS Code as your wish.**
+
 **If you found textual library install problem in kali linux machines or debian machines**
 - use
 ```
